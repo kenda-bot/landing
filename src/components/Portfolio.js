@@ -1,5 +1,4 @@
-import React from 'react'
-import { Images1, Images2 } from './Images'
+import React from "react";
 
 function Portfolio() {
   return (
@@ -12,17 +11,14 @@ function Portfolio() {
           <div className="col-sm-4">
             <div className="thumbnail">
               <p>
-                <Images1 />
                 <strong>Paris</strong>
               </p>
               <p>Yes, we built Paris</p>
-            
             </div>
           </div>
           <div className="col-sm-4">
             <div className="thumbnail">
               <p>
-                <Images2 />
                 <strong>New York</strong>
               </p>
               <p>We built New York</p>
